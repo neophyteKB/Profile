@@ -23,7 +23,7 @@ I have advanced knowledge in SwiftUI, Swift, ObjC. I would like to highlight som
   
 <br>
 
-As a Team Lead at Mutual Mobile (A Grid Dynamics Company), I do - 
+As a Tech Lead at Mutual Mobile (A Grid Dynamics Company), I do - 
 - Lead the team
 - Reviewing PRs
 - Manage the backlogs and scrum jobs
