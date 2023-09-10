@@ -31,9 +31,9 @@ As a Team Lead at Mutual Mobile (A Grid Dynamics Company), I do -
 - Tech talks and lead the in-house hackathons 
 - POC to the latest technologies - Modern Concurrency, DocC, Localizations, etc
 - Monitor App Statastics (responsiveness, hangs, hitches, memory, etc)
-<br>
-Apart from this,I am always interested to explore WWDC updates and adapt them. Also, I also tried writing some tech articles in the medium some of them are highly appreciated. 
+<br><br>
 
+Apart from this,I am always interested to explore WWDC updates and adapt them. Also, I also tried writing some tech articles in the [medium](https://medium.com/@kkbhardwaj20) some of them are highly appreciated. <br><br>
 With my strengths in development and collaboration, I think I would be a valuable asset to your Company. <br>
 I would be eager to chat more with you about my experience and qualifications. Please contact me at any time. 
 
