@@ -1,13 +1,27 @@
-# Cover Letter
-![Header](https://imgur.com/a/HS2UT0o) 
+<img width=window.innerWidth alt="Screenshot 2023-09-10 at 3 37 41 PM" src="https://github.com/neophyteKB/Profile/assets/9991891/137d5b92-fb26-4839-bf5b-d48d24ab1897">
 <br><br>
-Dear Hiring Manager,<br><br>
-I have admired this Company’s work for a long time—in fact. I was thrilled to see an opening in iOS domain. 
-With my experience in building popular mobile applications and proficiency in SwiftUi, Swift and Objective-C.
-I think I would be a great addition to your team.<br><br>
-With my strengths in development and collaboration, I think I would be a valuable asset to your Company. 
-I would be eager to chat more with you about my experience and qualifications. Please contact me at any time. 
 
+# Cover Letter
+Dear Hiring Manager,<br><br>
+I have admired this Company’s work for a long time. I was thrilled to see an opening in iOS domain. 
+With my expertise in building popular mobile applications and proficiency in SwiftUI, Swift and Objective-C.
+I think I would be a great addition to your team and so the the company.<br><br>
+
+I have advanced knowledge in SwiftUI, Swift, ObjC and [more](tech_tack). It am eager to bring my experience to help your team succeed.
+
+As the Team Lead at Mutual Mobile (A Grid Dynamics Company), I do - 
+- Lead the team
+- Reviewing PRs
+- Manage the backlogs and scrum jobs
+- Maintain and enhance CI/CD jobs and GitHub Actions
+- Tech talks and lead the in-house hackathons 
+- POC to the latest technologies - Modern Concurrency, DocC, Localizations, etc
+- Monitor App Statastics (responsiveness, hangs, hitches, memory, etc)
+<br>
+Apart from this,I am always interested to explore WWDC updates and adapt them. Also, I also tried writing some tech articles in the medium some of them are highly appreciated. 
+
+With my strengths in development and collaboration, I think I would be a valuable asset to your Company. <br>
+I would be eager to chat more with you about my experience and qualifications. Please contact me at any time. 
 
 Thank you in advance.
 
@@ -19,7 +33,7 @@ kkbhardwaj20@gmail.com<br>
 [Medium](https://medium.com/@kkbhardwaj20)
 
 <br><br>
-## Tech Stack
+## Tech Stack[#](tech_tack) 
 - **Programming languages**: Swift, SwiftUI, ObjectiveC
 - **CI/CD**: GitHub, Github Actions, Fastlane
 - **Mobile Development**: iOS, iPadOS, MacOS
