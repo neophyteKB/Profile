@@ -121,4 +121,7 @@ Experienced Technical Lead with 11+ years in iOS app development. Proficient in 
 - **BTech, Electronics and Communication Engineering**  
   PTU, Jalandhar (2007 – 2011)
 
+- **Certified Technical Interviewer**
+- **Udemy Course: Requirement Gathering**
+
 ---
