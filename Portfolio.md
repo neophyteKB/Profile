@@ -25,6 +25,13 @@ Experienced Technical Lead with 11+ years in iOS app development. Proficient in 
 
 ---
 
+## Publications
+**Medium Articles:** https://medium.com/@kkbhardwaj20 
+
+- 7 Articles are publised
+- 2 articles with over 2k views and 60% read ratio
+- 5 articles with over 1k views
+
 ## Experience
 
 **Grid Dynamics, Hyderabad, India**  
